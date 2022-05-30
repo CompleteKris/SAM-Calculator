@@ -28,7 +28,6 @@ By Kris
 
 ## Contact
 
-- E-mail: napewnoniekris@gmail.com
 - Discord: CompleteKris#7684
 
 ## License
